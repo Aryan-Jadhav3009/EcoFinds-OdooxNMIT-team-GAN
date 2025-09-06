@@ -40,6 +40,7 @@ Discover, sell, and give items a second life. EcoFinds is a modern, real-time ma
 - Image uploads to backend storage
 - Clear DX and easy local setup (no env needed)
 - Clean architecture and strong code hygiene
+- OTP based authentication
 
 ---
 
