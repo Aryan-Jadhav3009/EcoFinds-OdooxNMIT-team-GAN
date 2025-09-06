@@ -33,7 +33,7 @@ Troubleshooting
 
 Discover, sell, and give items a second life. EcoFinds is a modern, real-time marketplace with a beautiful glassmorphism UI, authentication, image uploads, and a delightful browsing experience.
 
-## ✨ Why judges will love this
+## ✨ Features
 - Real-time data and reactive UI
 - Smooth auth flow with OTP
 - Polished, cohesive design and animations
